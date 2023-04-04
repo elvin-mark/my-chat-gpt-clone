@@ -1,0 +1,15 @@
+.chat-ui {
+    display: flex;
+    height: 100vh;
+  }
+  
+  .chat-ui h2 {
+    margin-top: 0;
+  }
+  
+  .chat-ui p {
+    margin: 0;
+    font-size: 0.8rem;
+    color: #999;
+  }
+  

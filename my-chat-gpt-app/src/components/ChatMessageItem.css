@@ -1,0 +1,31 @@
+.chat-message-item {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #f4f4f4;
+    border-radius: 5px;
+  }
+  
+  .chat-message-item-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 5px;
+  }
+  
+  .chat-message-item-header h4 {
+    font-size: 1rem;
+    margin: 0;
+  }
+  
+  .chat-message-item-header span {
+    font-size: 0.8rem;
+  }
+  
+  .chat-message-item-content {
+    font-size: 1rem;
+    word-break: break-word;
+    text-align: left;
+  }
+  
